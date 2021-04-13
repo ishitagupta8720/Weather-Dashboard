@@ -1,0 +1,53 @@
+
+*{
+    box-sizing: border-box;
+    
+}
+
+body {
+    
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h3{
+    font-weight: bold;
+}
+
+.rounded{
+    margin-left: 20px;
+}
+.forecast{
+    font-size:15px;
+}
+
+.future-weather{
+    margin-top:15px;
+}
+
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: lightslategray;
+    text-decoration: underline;
+}
+
+.navbar{
+    padding-top:10px;
+    margin-bottom:30px;
+    background-color:#B9D9EB;
+}
+
+ h4{
+    margin-top: 20px;
+}
+
+h3{
+    margin-top: 40px;
+}
+
+#current{
+    padding-left:50px;
+    padding-bottom: 10px;
+}
