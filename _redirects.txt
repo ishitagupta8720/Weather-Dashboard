@@ -1,1 +1,1 @@
-/dashboard /dashboard.html
+/dashboard dashboard.html 200
